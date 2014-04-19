@@ -9,5 +9,6 @@ public class TestClass {
         System.out.println("smart git submit test .");
 
         System.out.println("git new branch rb test 1.");
+        System.out.println("git branch merge test 1.");
     }
 }
