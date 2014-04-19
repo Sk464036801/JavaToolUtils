@@ -14,5 +14,6 @@ public class TestClass {
         System.out.println("git rebase rb_2.0 branch .");
 
         System.out.println("git rebase rb_2.0 branch .#####");
+        System.out.println("git rebase rb_2.0 branch .@@@@@@@@");
     }
 }
